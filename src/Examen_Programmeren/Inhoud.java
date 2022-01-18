@@ -1,11 +1,11 @@
 package Examen_Programmeren;
 
-public class Leerstof {
+public class Inhoud {
 
-    private static String datum;
-    private static String leerstof;
+    private String datum;
+    private String leerstof;
 
-    public Leerstof(String datum,String leerstof) {
+    public Inhoud(String datum, String leerstof) {
         setDatum(datum);
         setLeerstof(leerstof);
     }
