@@ -3,7 +3,7 @@ package warm_up;
 import javax.swing.*;
 import java.util.Scanner;
 
-public class Input_Output {
+public class InputOutput {
     public static void main(String[] args) {
         q3();
     }
